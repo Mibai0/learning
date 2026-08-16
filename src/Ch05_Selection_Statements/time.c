@@ -6,7 +6,7 @@ int main(void){
 
   scanf("%d:%d" ,&h ,&m);
 
-  if (h > 24 || h < 0 || m >59 || m <= 0) {
+  if (h > 24 || h < 0 || m >59 || m < 0) {
     printf("Wrong Time Input");
     return 1;
   }
