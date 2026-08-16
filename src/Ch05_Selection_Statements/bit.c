@@ -5,7 +5,7 @@ int main(){
 
     printf("Entera number:\n");
     
-    if (scanf("%d" ,&num1) != 1 || num1 <= 0 || num1 > 1000) {
+    if (scanf("%d" ,&num1) != 1 || num1 <= 0 || num1 > 999) {
       printf("Your Input was Invaild");
       return 1;
     }
@@ -18,7 +18,7 @@ int main(){
       i = 2;
     }
     
-    else if (num1 > 100 ){
+    else {
       i = 3;
     }
 
