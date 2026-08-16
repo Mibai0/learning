@@ -19,6 +19,6 @@ int main(void){
     h = h;
   }
 
-  printf("Equivalent 12-hour time :%d:%d\n" ,h ,m);
+  printf("Equivalent 12-hour time :%02d:%02d\n" ,h ,m);
   return 0;
 }
