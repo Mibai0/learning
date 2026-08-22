@@ -1,2 +1,4 @@
-# ___________Build Rubbish____________
+
 *.out
+.vscode*
+build*
