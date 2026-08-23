@@ -15,7 +15,8 @@ Mibai | 黄冈职业技术大学 物联网技术应用专业 2026级
 |-------|------------|----------|--------------|
 | Ch02  |   Basic    |  Finish  | X |
 | Ch05  | Selection  |  Finish  |26-08-17 12:27|
-| Ch06  |   Loop     | Working  | Waiting... |
+| Ch06  |   Loop     |  Finish  |26-08-22 22:21|
+| Ch07  |basic_method| working  | X |
  
 ## 仓库结构
 src/ 目录下按章节组织：
@@ -23,6 +24,8 @@ src/ 目录下按章节组织：
 - Ch05_Selection_Statements/ : 选择语句（第五章）
 - Ch06_Loop/ : 循环语句（第六章）
 -          /test_p85 : 章末测试
+- ...
+
 ## 同步说明
 本仓库同时同步至 GitHub 和 Gitee
 ~~从 Ch06 开始每章节提交一次 PR~~
