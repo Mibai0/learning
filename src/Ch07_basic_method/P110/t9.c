@@ -1,6 +1,6 @@
 /*
     题目：十二小时制转二十四小时制
-    getchar判断接收到AM，PM
+    使用scanf读取输入
 */
 #include<stdio.h>
 
