@@ -15,7 +15,8 @@ Mibai | 黄冈职业技术大学 物联网技术应用专业 2026级
 | Ch02  |   Basic    |  Finish  | X |
 | Ch05  | Selection  |  Finish  |26-08-17 12:27|
 | Ch06  |   Loop     |  Finish  |26-08-22 22:21|
-| Ch07  |basic_method| working  | X |
+| Ch07  |basic_method|  Finish  |26-08-29 20:31|
+| Ch08  |    array   | working  | X |
  
 ## 仓库结构
 src/ 目录下按章节组织：
