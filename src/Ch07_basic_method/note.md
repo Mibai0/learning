@@ -45,8 +45,6 @@
 - 黄金法则：已 push 的提交绝对不 rebase
 - git tag：给里程碑打书签，`git push origin --tags` 才推到远程
 - tag vs 分支：tag 永远钉在一个 commit 上，分支每次 commit 往前走
-- 电赛场景：给"赛前最终稳定版"打 tag，现场改崩了一键回退
 - 已用 `git reset --hard f81d98c` 同步远程，本地旧提交保留在 `backup-ch06` 分支
 
-## 8/22 补充：其他
-- 开始玩 Turing Complete（从 NAND 门造 CPU），跟 Ch07 补码/ALU 知识完美衔接
+
