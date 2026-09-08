@@ -3,8 +3,6 @@
           X,(X+1),...(X+5)后多少元
     输出示例：
 */
-#include <inttypes.h>
-
 #include <stdio.h>
 #define INITIAL_BALANCE 100
 
