@@ -24,7 +24,7 @@ int main(void){
 
     printf("Enter a number of cards in hand:");
     scanf("%d" ,&num_cards);
-    if (num_cards >= 52){
+    if (num_cards > 52){
         printf("You can't get cards numbers more than 52");
         return 1;
     }
